@@ -11,24 +11,29 @@ A fan-made remake project recreating Project IGI 2: Covert Strike within Delta F
 ## Reference Links
 [https://archive.org/download/Nova_DeltaForceBHD-TS_USA/Delta%20Force%20-%20Black%20Hawk%20Down%20%26%20Team%20Sabre%20%28USA%29.7z](https://archive.org/download/Nova_DeltaForceBHD-TS_USA/Delta%20Force%20-%20Black%20Hawk%20Down%20%26%20Team%20Sabre%20%28USA%29.7z)
 
+[https://www.moddb.com/games/delta-force-black-hawk-down/mods](https://www.moddb.com/games/delta-force-black-hawk-down/mods)
+
+[https://www.moddb.com/mods/delta-force-black-hawk-down-co-op-campaign-mod](https://www.moddb.com/mods/delta-force-black-hawk-down-co-op-campaign-mod)
+
+[https://www.moddb.com/games/delta-force-black-hawk-down-team-sabre/downloads](https://www.moddb.com/games/delta-force-black-hawk-down-team-sabre/downloads)
+
 [![Delta Force Black Hawk Down: MISSION EDITOR - TUTORIAL | BY DJ - 1](https://img.youtube.com/vi/gg7DugX9V5c/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Z2c3RHVnWDlWNWM)
 
 [![Delta Force Black Hawk Down Team Sabre 20th Anniversary (FULL SOUNDTRACK)](https://img.youtube.com/vi/dZO3o2EHSW0/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZFpPM28yRUhTVzA)
-
-[![Delta Force: Black Hawk Down](https://raw.githubusercontent.com/igiteam/dfbhdts-project-igi-2/main/dfbhd-cd.jpg)](https://archive.org/details/Nova_DeltaForceBHDUSAv1505)
-
-[![Delta Force: Black Hawk Down – Team Sabre](https://raw.githubusercontent.com/igiteam/dfbhdts-project-igi-2/main/dfbhdts-cd.jpg)](https://archive.org/details/Nova_DeltaForceBHDTSUSAv1505)
 
 [![Delta Force Black Hawk Down REMASTERED - Team Sabre Operations Mod Diplomatic Immunity - Walkthrough](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/dfbhdts.png)](https://www.youtube.com/watch?v=dgcAMRNupjQ)
 
 [![IGI 2 Mission 6 - Production Facility](https://img.youtube.com/vi/JKbVmjan3bQ/maxresdefault.jpg)](https://ytembed.macosxjs.com/?SktiVm1qYW4zYlE)
 
+[![IGI 2: Covert Strike FULL Game Walkthrough - All Missions](https://i.ytimg.com/vi/3jE738WebG4/sddefault.jpg)](https://ytembed.macosxjs.com/?STZaUWx1SEJLVm8)
+
+[![Delta Force: Black Hawk Down](https://raw.githubusercontent.com/igiteam/dfbhdts-project-igi-2/main/dfbhd-cd.jpg)](https://archive.org/details/Nova_DeltaForceBHDUSAv1505)
+
+[![Delta Force: Black Hawk Down – Team Sabre](https://raw.githubusercontent.com/igiteam/dfbhdts-project-igi-2/main/dfbhdts-cd.jpg)](https://archive.org/details/Nova_DeltaForceBHDTSUSAv1505)
+
 [https://archive.org/download/igi-pc-redump/IGI-PC-REDUMP/I.G.I-2%20-%20Covert%20Strike%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%201%29.zip](https://archive.org/download/igi-pc-redump/IGI-PC-REDUMP/I.G.I-2%20-%20Covert%20Strike%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%201%29.zip)
 
 [https://archive.org/download/igi-pc-redump/IGI-PC-REDUMP/I.G.I-2%20-%20Covert%20Strike%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%202%29.zip](https://archive.org/download/igi-pc-redump/IGI-PC-REDUMP/I.G.I-2%20-%20Covert%20Strike%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%202%29.zip)
-
-[![IGI 2: Covert Strike FULL Game Walkthrough - All Missions](https://i.ytimg.com/vi/3jE738WebG4/sddefault.jpg)](https://ytembed.macosxjs.com/?STZaUWx1SEJLVm8)
-
 
 ---
 
