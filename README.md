@@ -19,13 +19,13 @@ A fan-made remake project recreating Project IGI 2: Covert Strike within Delta F
 
 [![Delta Force Black Hawk Down: MISSION EDITOR - TUTORIAL | BY DJ - 1](https://img.youtube.com/vi/gg7DugX9V5c/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Z2c3RHVnWDlWNWM)
 
-[![Delta Force Black Hawk Down Team Sabre 20th Anniversary (FULL SOUNDTRACK)](https://img.youtube.com/vi/dZO3o2EHSW0/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZFpPM28yRUhTVzA)
-
 [![Delta Force Black Hawk Down REMASTERED - Team Sabre Operations Mod Diplomatic Immunity - Walkthrough](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/dfbhdts.png)](https://www.youtube.com/watch?v=dgcAMRNupjQ)
 
 [![IGI 2 Mission 6 - Production Facility](https://img.youtube.com/vi/JKbVmjan3bQ/maxresdefault.jpg)](https://ytembed.macosxjs.com/?SktiVm1qYW4zYlE)
 
 [![IGI 2: Covert Strike FULL Game Walkthrough - All Missions](https://i.ytimg.com/vi/3jE738WebG4/sddefault.jpg)](https://ytembed.macosxjs.com/?STZaUWx1SEJLVm8)
+
+[![Delta Force Black Hawk Down Team Sabre 20th Anniversary (FULL SOUNDTRACK)](https://img.youtube.com/vi/dZO3o2EHSW0/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZFpPM28yRUhTVzA)
 
 [![Delta Force: Black Hawk Down](https://raw.githubusercontent.com/igiteam/dfbhdts-project-igi-2/main/dfbhd-cd.jpg)](https://archive.org/details/Nova_DeltaForceBHDUSAv1505)
 
