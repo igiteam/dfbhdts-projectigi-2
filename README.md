@@ -25,6 +25,8 @@ A fan-made remake project recreating Project IGI 2: Covert Strike within Delta F
 
 [![IGI 2: Covert Strike FULL Game Walkthrough - All Missions](https://i.ytimg.com/vi/3jE738WebG4/sddefault.jpg)](https://ytembed.macosxjs.com/?STZaUWx1SEJLVm8)
 
+[![IGI 2 Editor Tutorial 2 (Basic Controls)](https://img.youtube.com/vi/33dRgWSx9BI/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MzNkUmdXU3g5Qkk)
+
 [![Delta Force Black Hawk Down Team Sabre 20th Anniversary (FULL SOUNDTRACK)](https://img.youtube.com/vi/dZO3o2EHSW0/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZFpPM28yRUhTVzA)
 
 [![Delta Force: Black Hawk Down](https://raw.githubusercontent.com/igiteam/dfbhdts-project-igi-2/main/dfbhd-cd.jpg)](https://archive.org/details/Nova_DeltaForceBHDUSAv1505)
