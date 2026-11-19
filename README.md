@@ -1,4 +1,4 @@
-# dfbhdts-project-igi-2
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/31a4bc42-41ef-4d2c-b592-8f06195d2eed" /># dfbhdts-project-igi-2
 ## Delta Force Black Hawk Down Team Sabre - Project IGI 2 Remake
 A fan-made remake project recreating Project IGI 2: Covert Strike within Delta Force: Black Hawk Down – Team Sabre, using the BHDTS engine and technology.
 
@@ -19,6 +19,16 @@ A fan-made remake project recreating Project IGI 2: Covert Strike within Delta F
 [![Delta Force: Black Hawk Down](https://raw.githubusercontent.com/igiteam/dfbhdts-project-igi-2/main/dfbhd-cd.jpg)](https://archive.org/details/Nova_DeltaForceBHDUSAv1505)
 
 [![Delta Force: Black Hawk Down – Team Sabre](https://raw.githubusercontent.com/igiteam/dfbhdts-project-igi-2/main/dfbhdts-cd.jpg)](https://archive.org/details/Nova_DeltaForceBHDTSUSAv1505)
+
+[![Delta Force Black Hawk Down REMASTERED - Team Sabre Operations Mod Diplomatic Immunity - Walkthrough](https://img.youtube.com/vi/dgcAMRNupjQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dgcAMRNupjQ)
+
+[![IGI 2 Mission 6 - Production Facility](https://img.youtube.com/vi/JKbVmjan3bQ/maxresdefault.jpg)](https://ytembed.macosxjs.com/?SktiVm1qYW4zYlE)
+
+[https://archive.org/download/igi-pc-redump/IGI-PC-REDUMP/I.G.I-2%20-%20Covert%20Strike%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%201%29.zip](https://archive.org/download/igi-pc-redump/IGI-PC-REDUMP/I.G.I-2%20-%20Covert%20Strike%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%201%29.zip)
+
+[https://archive.org/download/igi-pc-redump/IGI-PC-REDUMP/I.G.I-2%20-%20Covert%20Strike%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%202%29.zip](https://archive.org/download/igi-pc-redump/IGI-PC-REDUMP/I.G.I-2%20-%20Covert%20Strike%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%202%29.zip)
+
+[![IGI 2: Covert Strike FULL Game Walkthrough - All Missions](https://img.youtube.com/vi/JKbVmjan3bQ/maxresdefault.jpg)](https://ytembed.macosxjs.com/?STZaUWx1SEJLVm8)
 
 
 ---
