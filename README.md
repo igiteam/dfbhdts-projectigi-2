@@ -27,7 +27,7 @@ A fan-made remake project recreating Project IGI 2: Covert Strike within Delta F
 
 [https://archive.org/download/igi-pc-redump/IGI-PC-REDUMP/I.G.I-2%20-%20Covert%20Strike%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%202%29.zip](https://archive.org/download/igi-pc-redump/IGI-PC-REDUMP/I.G.I-2%20-%20Covert%20Strike%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Disc%202%29.zip)
 
-[![IGI 2: Covert Strike FULL Game Walkthrough - All Missions](https://img.youtube.com/vi/I6ZQluHBKVo/maxresdefault.jpg)](https://ytembed.macosxjs.com/?STZaUWx1SEJLVm8)
+[![IGI 2: Covert Strike FULL Game Walkthrough - All Missions](https://i.ytimg.com/vi/3jE738WebG4/sddefault.jpg)](https://ytembed.macosxjs.com/?STZaUWx1SEJLVm8)
 
 
 ---
