@@ -1,4 +1,3 @@
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/31a4bc42-41ef-4d2c-b592-8f06195d2eed" /># dfbhdts-project-igi-2
 ## Delta Force Black Hawk Down Team Sabre - Project IGI 2 Remake
 A fan-made remake project recreating Project IGI 2: Covert Strike within Delta Force: Black Hawk Down – Team Sabre, using the BHDTS engine and technology.
 
