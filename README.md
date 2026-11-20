@@ -13,9 +13,13 @@ A fan-made remake project recreating Project IGI 2: Covert Strike within Delta F
 
 [https://www.moddb.com/games/delta-force-black-hawk-down/mods](https://www.moddb.com/games/delta-force-black-hawk-down/mods)
 
+[https://novahq.net/files.php?CategoryID=DFBHDTS&Type=File&Game=Black%20Hawk%20Down%20Team%20Sabre](https://novahq.net/files.php?CategoryID=DFBHDTS&Type=File&Game=Black%20Hawk%20Down%20Team%20Sabre)
+
 [https://www.moddb.com/mods/delta-force-black-hawk-down-co-op-campaign-mod](https://www.moddb.com/mods/delta-force-black-hawk-down-co-op-campaign-mod)
 
 [https://www.moddb.com/games/delta-force-black-hawk-down-team-sabre/downloads](https://www.moddb.com/games/delta-force-black-hawk-down-team-sabre/downloads)
+
+[https://www.moddb.com/games/delta-force-black-hawk-down/downloads/environment-tool-2](https://www.moddb.com/games/delta-force-black-hawk-down/downloads/environment-tool-2)
 
 [![Delta Force Black Hawk Down: MISSION EDITOR - TUTORIAL | BY DJ - 1](https://img.youtube.com/vi/gg7DugX9V5c/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Z2c3RHVnWDlWNWM)
 
@@ -28,6 +32,28 @@ A fan-made remake project recreating Project IGI 2: Covert Strike within Delta F
 [![IGI 2 Editor Tutorial 2 (Basic Controls)](https://img.youtube.com/vi/33dRgWSx9BI/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MzNkUmdXU3g5Qkk)
 
 [![Delta Force Black Hawk Down Team Sabre 20th Anniversary (FULL SOUNDTRACK)](https://img.youtube.com/vi/dZO3o2EHSW0/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZFpPM28yRUhTVzA)
+
+[![NovaLogic PFF Editor / PFF Extractor Tool w/4GB PFF Support (NovaPff)](https://novahq.net/images.php?Item=Files&ID=863&File=863_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=863)
+
+[![BHD AIN Editor](https://novahq.net/images.php?Item=Files&ID=882&File=882_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=882)
+
+[![NovaLogic 3DI / 3DO / PAK to OBJ Converter (Nova3di)](https://novahq.net/images.php?Item=Files&ID=870&File=870_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=870)
+
+[![BHD / BHDTS MED Mission Editor Collection](https://novahq.net/images.php?Item=Files&ID=496&File=496_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=496)
+
+[![Black Hawk Down Official Mod Tools](https://novahq.net/images.php?Item=Files&ID=217&File=217_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=217)
+
+[![BHD Bin Tools (BIN2TXT.exe & TXT2BIN.exe)](https://novahq.net/images.php?Item=Files&ID=279&File=279_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=279)
+
+[![BHD MED Mission Editor v2.00i](https://novahq.net/images.php?Item=Files&ID=204&File=204_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=204)
+
+[![BHD Environment & Terrain Viewer](https://novahq.net/images.php?Item=Files&ID=162&File=162_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=162)
+
+[![Black Hawk Down FwO Raven CPT Edit BMP](https://novahq.net/images.php?Item=Files&ID=280&File=280_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=280)
+
+[![BHD/DFX/JO BAD Animation Files](https://novahq.net/images.php?Item=Files&ID=800&File=800_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=800)
+
+[![BHD Mission Editor Manual](https://novahq.net/images.php?Item=Files&ID=772&File=772_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=772)
 
 [![Delta Force: Black Hawk Down](https://raw.githubusercontent.com/igiteam/dfbhdts-project-igi-2/main/dfbhd-cd.jpg)](https://archive.org/details/Nova_DeltaForceBHDUSAv1505)
 
