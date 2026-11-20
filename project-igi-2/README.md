@@ -10,7 +10,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 01 / 19 — Infiltration
 
-[![Infiltration](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m01.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m01.png)
+[![Infiltration](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m11.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m11.png)
 
 1. Infiltrate main compound.
 2. Cross the river to gain access to upper compound.
@@ -20,7 +20,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 02 / 19 — Deep in the Mines
 
-[![Deep in the Mines](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m02.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m02.png)
+[![Deep in the Mines](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m12.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m12.png)
 
 1. Gain access to lower cave system.
 2. Disable security system.
@@ -32,7 +32,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 03 / 19 — The Weather Station
 
-[![The Weather Station](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m03.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m03.png)
+[![The Weather Station](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m13.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m13.png)
 
 1. Pick up laser cutter from airdrop.
 2. Steal papers from the safe.
@@ -44,7 +44,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 04 / 19 — Bridge Across the Dnestr
 
-[![Bridge Across the Dnestr](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m04.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m04.png)
+[![Bridge Across the Dnestr](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m14.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m14.png)
 
 1. Infiltrate the warehouse, and acquire four C4 charges.
 2. Acquire the timers and fuses from a patrol near the bridge.
@@ -55,7 +55,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 05 / 19 — Ambush
 
-[![Ambush](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m05.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m05.png)
+[![Ambush](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m15.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m15.png)
 
 1. Destroy the APC using the rocket launcher found in the convoy.
 2. Pick up the EMP chips from the trucks in the convoy.
@@ -66,7 +66,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 06 / 19 — Production Facility
 
-[![Production Facility](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m06.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m06.png)
+[![Production Facility](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m16.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m16.png)
 
 1. Disable the security cameras.
 2. Steal the blueprints for the EMP chips.
@@ -79,7 +79,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 07 / 19 — Border Crossing
 
-[![Border Crossing](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m07.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m07.png)
+[![Border Crossing](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m17.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m17.png)
 
 1. Ambush Communications vehicle guards.
 2. Send radio signal for rescue helicopter.
@@ -91,7 +91,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 08 / 19 — Libyan Rendezvous
 
-[![Libyan Rendezvous](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m08.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m08.png)
+[![Libyan Rendezvous](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m21.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m21.png)
 
 1. Meet the bribed local militia man to be guided to the surveilance room.
 2. Shut down the surveillance cameras for the hotel.
@@ -104,7 +104,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 09 / 19 — Prison Escape
 
-[![Prison Escape](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m09.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m09.png)
+[![Prison Escape](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m22.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m22.png)
 
 1. Escape from your cell.
 2. Get your map computer and lockpicks back.
@@ -117,7 +117,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 10 / 19 — Priboi's Villa
 
-[![Priboi's Villa](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m10.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m10.png)
+[![Priboi's Villa](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m23.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m23.png)
 
 1. Take Backup of Priboi's computer records.
 2. Pick up the envelope located in the safe in Priboi's bedroom.
@@ -127,7 +127,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 11 / 19 — The Airfield
 
-[![The Airfield](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m11.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m11.png)
+[![The Airfield](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m24.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m24.png)
 
 1. Infiltrate Compound.
 2. Sabotage Radio.
@@ -139,7 +139,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 12 / 19 — Zaleb's Stronghold
 
-[![Zaleb's Stronghold](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m12.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m12.png)
+[![Zaleb's Stronghold](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m25.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m25.png)
 
 1. Eliminate the enemies heading for the radio station before they warn of your arrival.
 2. Get Priboi's Briefcase, and eliminate Zaleb.
@@ -149,7 +149,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 13 / 19 — Showdown at the Docks
 
-[![Showdown at the Docks](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m13.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m13.png)
+[![Showdown at the Docks](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m26.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m26.png)
 
 1. Search database for information on secure area.
 2. Turn on power to crane.
@@ -164,7 +164,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 14 / 19 — Island Assault
 
-[![Island Assault](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m14.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m14.png)
+[![Island Assault](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m31.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m31.png)
 
 1. Turn off the power supply for the radar facility.
 2. Disable radar terminal.
@@ -174,7 +174,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 15 / 19 — Air-Strike
 
-[![Air-Strike](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m15.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m15.png)
+[![Air-Strike](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m32.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m32.png)
 
 1. Get in range and tag 1st SAM launcher.
 2. Get in range of 2nd SAM launcher before friendly fighter is shot down.
@@ -185,7 +185,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 16 / 19 — The Ancient Temple
 
-[![The Ancient Temple](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m16.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m16.png)
+[![The Ancient Temple](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m33.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m33.png)
 
 1. Neutralise enemy snipers.
 2. Gain access to main gatehouse.
@@ -197,7 +197,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 17 / 19 — Secret Weapons Lab
 
-[![Secret Weapons Lab](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m17.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m17.png)
+[![Secret Weapons Lab](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m34.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m34.png)
 
 1. Get blueprints of laboratory.
 2. Customise transmitter.
@@ -208,7 +208,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 18 / 19 — Mission Control
 
-[![Mission Control](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m18.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m18.png)
+[![Mission Control](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m35.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m35.png)
 
 1. Sabotage radar control.
 2. Call for repairs.
@@ -222,7 +222,7 @@ Every briefing and objective, exactly as the game lists them.
 
 ## Mission 19 / 19 — The Launch Pad
 
-[![The Launch Pad](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m19.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m19.png)
+[![The Launch Pad](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m36.png)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/project-igi-2/igi2-m36.png)
 
 1. Shut off rocket fuelling process.
 2. Place tracking device inside the rocket.
