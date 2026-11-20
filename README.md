@@ -11,6 +11,8 @@ A fan-made remake project recreating Project IGI 2: Covert Strike within Delta F
 ## Reference Links
 [https://archive.org/download/Nova_DeltaForceBHD-TS_USA/Delta%20Force%20-%20Black%20Hawk%20Down%20%26%20Team%20Sabre%20%28USA%29.7z](https://archive.org/download/Nova_DeltaForceBHD-TS_USA/Delta%20Force%20-%20Black%20Hawk%20Down%20%26%20Team%20Sabre%20%28USA%29.7z)
 
+[https://www.moddb.com/mods/delta-force-team-sabre-operations](https://www.moddb.com/mods/delta-force-team-sabre-operations)
+
 [https://www.moddb.com/games/delta-force-black-hawk-down/mods](https://www.moddb.com/games/delta-force-black-hawk-down/mods)
 
 [https://novahq.net/files.php?CategoryID=DFBHDTS&Type=File&Game=Black%20Hawk%20Down%20Team%20Sabre](https://novahq.net/files.php?CategoryID=DFBHDTS&Type=File&Game=Black%20Hawk%20Down%20Team%20Sabre)
