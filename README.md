@@ -71,7 +71,58 @@ A fan-made remake project recreating Project IGI 2: Covert Strike within Delta F
 
 [![Wine Windows games on macOS](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
 
+## Conversion Map
 
+| IGI 2 Format | IGI 2 Role | DFBHDTS Target | DFBHDTS Role | Difficulty | Notes |
+|---|---|---|---|---|---|
+| `.thm` | Terrain heightmap metadata (quadtree, in `heightmaps.res`) | `.trn` | BHD terrain heightmap | High | BHD `.trn` is a fixed grid with its own height precision. Flatten IGI's quadtree into a uniform heightmap first; the quadtree LOD is discarded. |
+| `.tlm` | Full RGBA terrain lightmaps | `.trn` colour map / baked texture | Terrain shading | High | No direct RGBA lightmap slot in BHD `.trn`. Bake into terrain textures, or approximate with vertex colouring. |
+| `.tmm` | Terrain material & physics properties | `.trn` material list + `BHD AIN` | Terrain surface types | Medium | Map IGI material IDs to BHD terrain material slots; physics properties (footstep sound, passability) go in the `.trn` material table. |
+| `.forest` | Vegetation placement records | `.3di` / `.3do` instances | Static object placement | Medium | Export placement coordinates and object IDs; place as BHD static objects via the MED editor. |
+| `.mef` | 3D model geometry | `.3di` / `.3do` | Model geometry | High | Use Nova3di / 3DO converters to get OBJ, then re-import. MEF Type 0/1/3 layouts differ; Type 3 is 28B in IGI 2. Scale conversion needed. |
+| `.tex` | Texture cascades | `.dds` / `.tga` in PFF | Textures | Low | Direct image conversion; repack into a PFF archive with NovaPff. |
+| `.spr` | Particle sprites | `.dds` with alpha | Textured billboards | Medium | Export as DDS; BHD particle system uses different emitter definitions, so re-author the effects. |
+| `.pic` | High-res UI bitmaps | `.dds` / `.tga` | UI textures | Low | Direct image conversion. |
+| `.mtp` | Model-texture package | `.3di` + `.dds` | Model material assignment | Medium | Reconstruct material-to-texture mappings in the 3DI/3DO structure. |
+| `.olm` | Multi-layer lightmaps | `.3di` vertex lighting / baked | Object lighting | High | No direct slot; rebake object lighting into the 3DI model or export as texture overlays. |
+| `.iff` | Skeletal animation | `.bad` | Animation | Very High | BHD/DFX/JO BAD animation format. Must be retargeted or re-authored; no direct IFF→BAD converter. |
+| `.dat` | Asset & graph tables | `BHD AIN` / internal | Asset lookup / AI | Very High | `graphs.dat` (0xFFEEDDCC signature, 10 tagged node fields) has no BHD equivalent; AI pathing is engine-internal. Rebuild as AIN or waypoints. |
+| `.qvm` / `.qsc` | Script bytecode / source | `BHD MED` / `BIN` scripts | Mission scripting | Very High | QVM opcodes have no mapping to BHD's mission system. Scripts must be rewritten, not converted. |
+| `.syn` | Synchronization timelines | `BHD MED` events | Timed mission events | High | Re-author sync events in the MED mission editor; no timeline file format to convert. |
+| `.fnt` | Multi-lingual font atlas | `.dds` atlas + BHD font def | UI text | Medium | Remap glyphs to BHD's font system; the atlas itself converts as an image. |
+| `.wav` | Innerloop audio samples | `.wav` / `.ogg` in PFF | Audio | Low | Resample to BHD's expected rate (typically 22050 Hz, 16-bit mono) and repack. |
+| `.mp3` / `.bmp` / `.jpg` | Modern media formats | `.wav` / `.dds` | Audio / textures | Low | Convert directly; repack into PFF. |
+| `.res` | Resource archive | `.pff` | Asset archive | Medium | Repack converted assets into a PFF archive via NovaPff. |
+
+---
+
+## Key Conversion Constraints
+
+1. **Terrain is the hardest bottleneck.** IGI 2's `.thm` quadtree heightmap must be flattened into BHD's fixed-grid `.trn`. The quadtree LOD and IGI's terrain partitioning (`.tmm`) are lost; BHD terrain will be simpler but will load and render in the BHDTS engine.
+
+2. **Models must go through Nova3di.** There is no direct MEF-to-3DI converter. Export MEF to OBJ (via the converter repo's parsers), then import into BHD's 3DI/3DO format. Note the IGI 2 Type 3 MEF record is 28B (not 40B as in IGI 1) — confirm against retail samples before batch conversion.
+
+3. **Scripts and AI are not convertible.** QVM bytecode has no mapping to BHD's MED mission system. The `graphs.dat` AI navigation graph has no file-level counterpart. These must be reimplemented — which is why this is a total conversion, not a port.
+
+4. **Use the NovaLogic tools.** NovaPff (PFF archives), Nova3di (3DI/3DO/PAK → OBJ), BHD AIN Editor, BHD MED, and BIN2TXT/TXT2BIN are the practical pipeline. The mod tools pack handles the official toolchain.
+
+5. **Audio and textures are the easy wins.** `.tex` → DDS, `.wav` → 22050 Hz mono, `.pic` → DDS. These convert directly and should be done first to validate the pipeline before tackling terrain and models.
+
+---
+
+## Reference Links
+
+- NovaLogic PFF Editor / Extractor (NovaPff, 4GB support)
+- NovaLogic 3DI / 3DO / PAK → OBJ Converter (Nova3di)
+- BHD AIN Editor
+- BHD / BHDTS MED Mission Editor Collection
+- Black Hawk Down Official Mod Tools
+- BHD Bin Tools (BIN2TXT / TXT2BIN)
+- BHD MED Mission Editor v2.00i
+- BHD Environment & Terrain Viewer
+- Black Hawk Down FwO Raven CPT Edit BMP
+- BHD/DFX/JO BAD Animation Files
+- BHD Mission Editor Manual
 
 ---
 
