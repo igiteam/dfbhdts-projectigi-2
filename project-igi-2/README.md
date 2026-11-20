@@ -1,3 +1,73 @@
+# IGI 2: Covert Strike — Missions, Campaigns and Changes from IGI 1
+
+IGI 2: Covert Strike, the sequel to Project I.G.I., has 19 missions split into three campaigns: seven in the first, six in the second and six in the third. It runs from "Infiltration" to "The Launch Pad". Below is every mission with its objectives as the game lists them and what changed from IGI 1.
+
+*Campaign 1, mission 1: Infiltration. The first job is getting inside the main compound.*
+
+## The three campaigns at a glance
+
+| Campaign | Missions | First mission | Last mission | Objectives |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | 7 | Infiltration | Border Crossing | 30 |
+| 2 | 6 | Libyan Rendezvous | Showdown at the Docks | 29 |
+| 3 | 6 | Island Assault | The Launch Pad | 28 |
+
+That is 87 objectives across the game. For comparison, the first game's 14 missions have 47 objective lines in their text files, of which the map computer shows 37. A typical IGI 2 mission gives you three to six tasks, and the longest, Mission Control, has seven.
+
+## Campaign 1: the EMP chip trail
+
+The first campaign follows a trail of EMP technology: a prototype chip you steal from a lab, the trucks that carry more of them and the factory that builds them. It goes from a compound down into the mines and ends at a border.
+
+1. **Infiltration.** Get into the main compound, cross the river to the upper compound, then activate the lift and ride it down to the mines.
+2. **Deep in the Mines.** Reach the lower caves, disable the security system, open the tunnel doors, ride the train to the ventilation shaft and climb it into the weather station.
+3. **The Weather Station.** Collect a laser cutter from an airdrop, steal papers from a safe, disable security and override the airlock into the lab, take the prototype EMP chip, then raise the weather balloon and wait for evacuation.
+4. **Bridge Across the Dnestr.** Take four C4 charges from a warehouse, get the timers and fuses from a patrol near the bridge, set one charge on each of the four pillars, and get clear on the side of the river where the convoy is.
+5. **Ambush.** Destroy the APC with the rocket launcher found in the convoy, pick up the EMP chips from the trucks, kill the enemy forces that come for you and wait for the helicopter.
+6. **Production Facility.** Disable the cameras, steal the EMP chip blueprints, cut the power to the electric fences, turn on the factory machinery, hack the assembly line computer and reach the helicopter.
+7. **Border Crossing.** Ambush the guards of a communications vehicle, send a radio signal for a rescue helicopter and move to the extraction zone.
+
+Missions 4 and 5 read as a pair: you blow the bridge in one, then hit the convoy and its chips in the next. In Bridge Across the Dnestr the C4 comes from a warehouse, but the timers and fuses come from a patrol near the bridge, so there are two stops before the pillars.
+
+## Campaign 2: Priboi, Zaleb and Robert Quest
+
+The second campaign brings back the Priboi name from IGI 1. You rescue Priboi from a hotel in Libya, start the next mission in a prison cell, break him out and then go through his villa.
+
+8. **Libyan Rendezvous.** Meet a bribed militia man who guides you to the surveillance room, shut down the hotel cameras, pick up an explosive charge, blow up a refuelling vehicle in the market place, take out the intelligence operatives guarding Priboi and rescue him from the hotel.
+9. **Prison Escape.** Escape your cell, get your map computer and lockpicks back, find Priboi in the main prison building, hack the security terminal, open the gates of the inner and outer yards and the main gate, then take down the two gate guards and give sniper cover while Priboi runs for the getaway truck.
+10. **Priboi's Villa.** Back up Priboi's computer records, take the envelope from the safe in his bedroom and leave in his limousine from the garage compound.
+11. **The Airfield.** Get into the compound, sabotage the radio, find ammunition for the helicopter's gun, power up the fuel pumps and switch one on.
+12. **Zaleb's Stronghold.** Stop the enemies heading for the radio station before they warn of your arrival, get Priboi's briefcase, eliminate Zaleb and return to the helicopter with the case.
+13. **Showdown at the Docks.** Search a database for the secure area, power the crane, destroy the secure compound wall, search the offices in the secure warehouse, confront Robert Quest and Chinese soldiers, then get aboard the Ekranoplane.
+
+Prison Escape starts in a cell, and getting your map computer and lockpicks back is an objective in its own right. Zaleb's Stronghold puts pressure on you from the start, because the first objective is to stop the warning reaching the radio station.
+
+## Campaign 3: the island, the temple and the rocket
+
+The last campaign moves from an island radar site to a temple, a weapons lab and finally a rocket launch.
+
+14. **Island Assault.** Turn off the power to the radar facility, then disable the radar terminal and the communications terminal.
+15. **Air-Strike.** Get in range and tag the first SAM launcher, reach the second before a friendly fighter is shot down and tag it too, then collect an equipment canister at the drop zone.
+16. **The Ancient Temple.** Neutralise the enemy snipers, get into the main gatehouse, disable the cameras, re-align a satellite dish and get into the main temple building.
+17. **Secret Weapons Lab.** Get the lab blueprints, customise a transmitter, upload the data on EMP weapons and defeat Wu Xing and his elite squad.
+18. **Mission Control.** Sabotage radar control, call for repairs, get into the launch control compound, acquire the launch codes, reprogram the navigation computer, override launch control and slide down the wire to the launch pad.
+19. **The Launch Pad.** Shut off the rocket fuelling, place a tracking device inside the rocket, move the gantry, seal the launch bunker and start the launch.
+
+
+*Mission 19, The Launch Pad: the last objective is to start the rocket launch yourself.*
+
+Air-Strike runs against the clock: the second SAM launcher has to be reached before the friendly fighter goes down, so do not linger after the first tag. Mission Control has an odd step, "Call for repairs", right after you sabotage the radar.
+
+## What changed from IGI 1
+
+The shape of IGI 2 is familiar: large bases, cameras, alarms and a helicopter at the end. The main differences:
+
+- **Size.** IGI 1 has one campaign of 14 missions. IGI 2 has three campaigns and 19 missions, with more than twice as many objectives as the first game's map computer shows.
+- **Priboi's role.** In IGI 1 you rescue Josef Priboi, then kidnap Jach Priboi in "Get Priboi" and later defend him. In IGI 2 the Priboi name returns: you rescue him in Libya, break him out of prison, cover his run to a getaway truck and then go through his villa.
+- **Gear named in the objectives.** The map computer and C4 are back. IGI 2's objectives also name a laser cutter, lockpicks, a rocket launcher, a transmitter you customise and a tracking device.
+- **Getting around.** A mine lift, a tunnel train, a limousine, a slide down a wire and the Ekranoplane all appear in the objectives.
+- **Familiar names.** Both games have a mission called Border Crossing, both make you deal with SAM launchers, and both send you to a warehouse for C4 charges before a demolition job.
+
+
 # IGI 2: Covert Strike — Missions
 
 Every briefing and objective, exactly as the game lists them.
