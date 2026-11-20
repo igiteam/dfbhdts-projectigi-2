@@ -27,6 +27,9 @@ A fan-made remake project recreating Project IGI 2: Covert Strike within Delta F
 
 [![Delta Force Black Hawk Down REMASTERED - Team Sabre Operations Mod Diplomatic Immunity - Walkthrough](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/dfbhdts.png)](https://ytembed.macosxjs.com/?ZGdjQU1STnVwalE)
 
+## PROJECT I.G.I 2
+[https://github.com/igiteam/dfbhdts-projectigi-2/edit/main/project-igi-2/README.md](https://github.com/igiteam/dfbhdts-projectigi-2/edit/main/project-igi-2/README.md)
+
 [![IGI 2 Mission 6 - Production Facility](https://img.youtube.com/vi/JKbVmjan3bQ/maxresdefault.jpg)](https://ytembed.macosxjs.com/?SktiVm1qYW4zYlE)
 
 [![IGI 2: Covert Strike FULL Game Walkthrough - All Missions](https://i.ytimg.com/vi/3jE738WebG4/sddefault.jpg)](https://ytembed.macosxjs.com/?STZaUWx1SEJLVm8)
