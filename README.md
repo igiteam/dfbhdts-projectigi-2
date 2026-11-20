@@ -55,6 +55,8 @@ A fan-made remake project recreating Project IGI 2: Covert Strike within Delta F
 
 [![BHD Mission Editor Manual](https://novahq.net/images.php?Item=Files&ID=772&File=772_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=772)
 
+[![covert-strike-reloaded-ost - Full Playlist](https://img.youtube.com/vi/W8JbLPjvXQE/maxresdefault.jpg)](https://ytembed.macosxjs.com/?VzhKYkxQanZYUUU)
+
 [![Delta Force: Black Hawk Down](https://raw.githubusercontent.com/igiteam/dfbhdts-project-igi-2/main/dfbhd-cd.jpg)](https://archive.org/details/Nova_DeltaForceBHDUSAv1505)
 
 [![Delta Force: Black Hawk Down – Team Sabre](https://raw.githubusercontent.com/igiteam/dfbhdts-project-igi-2/main/dfbhdts-cd.jpg)](https://archive.org/details/Nova_DeltaForceBHDTSUSAv1505)
