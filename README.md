@@ -15,8 +15,6 @@ A fan-made remake project recreating Project IGI 2: Covert Strike within Delta F
 
 [https://www.moddb.com/games/delta-force-black-hawk-down/mods](https://www.moddb.com/games/delta-force-black-hawk-down/mods)
 
-[DeltaForceBlackHawkDown Tutorials](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFIgoAZQL4m-BRzJegThtUV)
-
 [https://novahq.net/files.php?CategoryID=DFBHDTS&Type=File&Game=Black%20Hawk%20Down%20Team%20Sabre](https://novahq.net/files.php?CategoryID=DFBHDTS&Type=File&Game=Black%20Hawk%20Down%20Team%20Sabre)
 
 [https://www.moddb.com/mods/delta-force-black-hawk-down-co-op-campaign-mod](https://www.moddb.com/mods/delta-force-black-hawk-down-co-op-campaign-mod)
@@ -24,6 +22,8 @@ A fan-made remake project recreating Project IGI 2: Covert Strike within Delta F
 [https://www.moddb.com/games/delta-force-black-hawk-down-team-sabre/downloads](https://www.moddb.com/games/delta-force-black-hawk-down-team-sabre/downloads)
 
 [https://www.moddb.com/games/delta-force-black-hawk-down/downloads/environment-tool-2](https://www.moddb.com/games/delta-force-black-hawk-down/downloads/environment-tool-2)
+
+[Novalogic Delta Force Black Hawk Down Team Sabre Editor Tutorials](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFIgoAZQL4m-BRzJegThtUV)
 
 [![Delta Force Black Hawk Down: MISSION EDITOR - TUTORIAL | BY DJ - 1](https://img.youtube.com/vi/gg7DugX9V5c/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Z2c3RHVnWDlWNWM)
 
