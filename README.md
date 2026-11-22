@@ -15,6 +15,8 @@ A fan-made remake project recreating Project IGI 2: Covert Strike within Delta F
 
 [https://www.moddb.com/games/delta-force-black-hawk-down/mods](https://www.moddb.com/games/delta-force-black-hawk-down/mods)
 
+[DeltaForceBlackHawkDown Tutorials](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFIgoAZQL4m-BRzJegThtUV)
+
 [https://novahq.net/files.php?CategoryID=DFBHDTS&Type=File&Game=Black%20Hawk%20Down%20Team%20Sabre](https://novahq.net/files.php?CategoryID=DFBHDTS&Type=File&Game=Black%20Hawk%20Down%20Team%20Sabre)
 
 [https://www.moddb.com/mods/delta-force-black-hawk-down-co-op-campaign-mod](https://www.moddb.com/mods/delta-force-black-hawk-down-co-op-campaign-mod)
