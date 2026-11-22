@@ -40,27 +40,27 @@ A fan-made remake project recreating Project IGI 2: Covert Strike within Delta F
 
 [![Delta Force Black Hawk Down Team Sabre 20th Anniversary (FULL SOUNDTRACK)](https://img.youtube.com/vi/dZO3o2EHSW0/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZFpPM28yRUhTVzA)
 
-[![NovaLogic PFF Editor / PFF Extractor Tool w/4GB PFF Support (NovaPff)](https://novahq.net/images.php?Item=Files&ID=863&File=863_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=863)
+[![NovaLogic PFF Editor / PFF Extractor Tool w/4GB PFF Support (NovaPff)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/novalogic/863_1.jpg)](https://novahq.net/clicktracker.php?Item=Files&ID=863)
 
-[![BHD AIN Editor](https://novahq.net/images.php?Item=Files&ID=882&File=882_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=882)
+[![BHD AIN Editor](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/novalogic/882_1.jpg)](https://novahq.net/clicktracker.php?Item=Files&ID=882)
 
-[![NovaLogic 3DI / 3DO / PAK to OBJ Converter (Nova3di)](https://novahq.net/images.php?Item=Files&ID=870&File=870_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=870)
+[![NovaLogic 3DI / 3DO / PAK to OBJ Converter (Nova3di)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/novalogic/870_1.jpg)](https://novahq.net/clicktracker.php?Item=Files&ID=870)
 
-[![BHD / BHDTS MED Mission Editor Collection](https://novahq.net/images.php?Item=Files&ID=496&File=496_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=496)
+[![BHD / BHDTS MED Mission Editor Collection](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/novalogic/496_1.jpg)](https://novahq.net/clicktracker.php?Item=Files&ID=496)
 
-[![Black Hawk Down Official Mod Tools](https://novahq.net/images.php?Item=Files&ID=217&File=217_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=217)
+[![Black Hawk Down Official Mod Tools](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/novalogic/217_1.jpg)](https://novahq.net/clicktracker.php?Item=Files&ID=217)
 
-[![BHD Bin Tools (BIN2TXT.exe & TXT2BIN.exe)](https://novahq.net/images.php?Item=Files&ID=279&File=279_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=279)
+[![BHD Bin Tools (BIN2TXT.exe & TXT2BIN.exe)](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/novalogic/279_1.jpg)](https://novahq.net/clicktracker.php?Item=Files&ID=279)
 
-[![BHD MED Mission Editor v2.00i](https://novahq.net/images.php?Item=Files&ID=204&File=204_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=204)
+[![BHD MED Mission Editor v2.00i](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/novalogic/204_1.jpg)](https://novahq.net/clicktracker.php?Item=Files&ID=204)
 
-[![BHD Environment & Terrain Viewer](https://novahq.net/images.php?Item=Files&ID=162&File=162_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=162)
+[![BHD Environment & Terrain Viewer](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/novalogic/162_1.jpg)](https://novahq.net/clicktracker.php?Item=Files&ID=162)
 
-[![Black Hawk Down FwO Raven CPT Edit BMP](https://novahq.net/images.php?Item=Files&ID=280&File=280_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=280)
+[![Black Hawk Down FwO Raven CPT Edit BMP](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/novalogic/280_1.jpg)](https://novahq.net/clicktracker.php?Item=Files&ID=280)
 
-[![BHD/DFX/JO BAD Animation Files](https://novahq.net/images.php?Item=Files&ID=800&File=800_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=800)
+[![BHD/DFX/JO BAD Animation Files](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/novalogic/800_1.jpg)](https://novahq.net/clicktracker.php?Item=Files&ID=800)
 
-[![BHD Mission Editor Manual](https://novahq.net/images.php?Item=Files&ID=772&File=772_1.jpg&Thumb=True)](https://novahq.net/clicktracker.php?Item=Files&ID=772)
+[![BHD Mission Editor Manual](https://raw.githubusercontent.com/igiteam/dfbhdts-projectigi-2/refs/heads/main/novalogic/772_1.jpg)](https://novahq.net/clicktracker.php?Item=Files&ID=772)
 
 [![covert-strike-reloaded-ost - Full Playlist](https://img.youtube.com/vi/W8JbLPjvXQE/maxresdefault.jpg)](https://ytembed.macosxjs.com/?VzhKYkxQanZYUUU)
 
