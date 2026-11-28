@@ -9,6 +9,8 @@ A fan-made remake project recreating Project IGI 2: Covert Strike within Delta F
 [https://api.github.com/repos/igiteam/dfbhdts-project-igi-2/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/dfbhdts-project-igi-2/git/trees/main?recursive=1)
 
 ## Reference Links
+[Project IGI 2 README](https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fdfbhdts-projectigi-2%2Fblob%2Fmain%2Fproject-igi-2%2FREADME.md)
+
 [https://archive.org/download/Nova_DeltaForceBHD-TS_USA/Delta%20Force%20-%20Black%20Hawk%20Down%20%26%20Team%20Sabre%20%28USA%29.7z](https://archive.org/download/Nova_DeltaForceBHD-TS_USA/Delta%20Force%20-%20Black%20Hawk%20Down%20%26%20Team%20Sabre%20%28USA%29.7z)
 
 [https://www.moddb.com/mods/delta-force-team-sabre-operations](https://www.moddb.com/mods/delta-force-team-sabre-operations)
